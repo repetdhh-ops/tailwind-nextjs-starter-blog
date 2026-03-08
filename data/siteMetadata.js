@@ -21,8 +21,8 @@ const siteMetadata = {
   //instagram: 'https://www.instagram.com',
   medium: 'https://medium.com',
   bluesky: 'https://bsky.app/',
-  douyin:'https://www.douyin.com/',
-  xiaohongshu:'https://www.xiaohongshu.com/explore',
+  douyin: 'https://www.douyin.com/',
+  xiaohongshu: 'https://www.xiaohongshu.com/explore',
   locale: 'en-US',
   // set to true if you want a navbar fixed to the top
   stickyNav: false,
